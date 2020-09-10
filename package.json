@@ -1,0 +1,29 @@
+{
+  "name": "Task4.1P",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": "12.18.3"
+  },
+  "dependencies": {
+    "@mailchimp/mailchimp_marketing": "^3.0.14",
+    "body-parser": "^1.19.0",
+    "bootstrap-select": "^1.13.18",
+    "express": "^4.17.1",
+    "https": "^1.0.0",
+    "jQuery": "^1.7.4",
+    "jquery": "^3.5.1",
+    "mongoose": "^5.10.0",
+    "nodemailer": "^6.4.11",
+    "validator": "^13.1.1"
+  },
+  "devDependencies": {},
+  "description": ""
+}
